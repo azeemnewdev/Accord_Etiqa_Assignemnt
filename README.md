@@ -2,7 +2,8 @@
 
 
 The Repos contains 2 projects
-- Both projects have the common functionality of inifinite scrolling (loadning data when reaching the end of the current list)
+- Both projects have the common functionality of inifinite scrolling (loading data when reaching the end of the current list)
+- Both projects call the same github API to fetch the repos with the most stars within the last 10 days 
 
 
 ### Mobile aAp created React Native
