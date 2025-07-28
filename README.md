@@ -18,9 +18,10 @@ The Repos contains 2 projects
 
 ### Web App created using NextJS
 
-Reasons for selecting NextJS
-- TypeScript out of the box
-- Tailwind out of the box
+Reasons for selecting NextJS (out of the box features)
+- TypeScript 
+- Tailwind
+- File based routing
 
 - Features
   - List of repos
