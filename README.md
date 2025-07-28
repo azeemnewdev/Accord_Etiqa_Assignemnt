@@ -1,4 +1,5 @@
-# Accord_Etiqa_Assignemnt
+# Accord Etiqa - *React Mobile Developer Assessment*
+
 
 
 The Repos contains 2 projects
