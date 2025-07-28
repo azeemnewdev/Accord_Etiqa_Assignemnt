@@ -25,7 +25,6 @@ The Repos contains 2 projects
 
 Reasons for selecting NextJS (out of the box features)
 - TypeScript 
-- Tailwind
 - File based routing
 
 - Features
