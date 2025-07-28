@@ -8,7 +8,7 @@ The Repos contains 2 projects
 
 ### Mobile aAp created React Native
 - Features
-  - List of repos
+  - Show repos in a list (Flatlist)
   - Individual repos details page if tapped on an item in the list
   - link to navigate to the Github repo page
   - Pull to refresh
@@ -24,7 +24,7 @@ Reasons for selecting NextJS (out of the box features)
 - File based routing
 
 - Features
-  - List of repos
+  - Show repos in a list
   - Individual repos details page if tapped on an item in the list
   - link to navigate to the Github repo page
   - Inifinite scrolling
